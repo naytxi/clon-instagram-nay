@@ -2,11 +2,10 @@
 
 ## Introducción
 
-Este será tu primer proyecto donde crearás in clon de Instagram con tecnologías HTML y CSS y diseño web "mobile first".
+Este será tu primer proyecto donde crearás un clon de Instagram con tecnologías HTML y CSS y diseño web "mobile first".
 
 <img width="400" alt="Clon instagram perfil" src="https://github.com/user-attachments/assets/68b4b1a6-eb43-474d-9911-7101ffea295b" />
 <img width="400" alt="Clon instagram" src="https://github.com/user-attachments/assets/df8d0367-1c18-424a-b9a5-26973edff8ea" />
-
 
 
 ## Requisitos
