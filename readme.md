@@ -2,17 +2,16 @@
 
 ## Introducción
 
-Este será tu primer proyecto donde crearás un clon de Instagram con tecnologías HTML y CSS y diseño web "mobile first".
+Este será tu primer proyecto donde crearás un clon de Instagram con tecnologías HTML y CSS y diseño web responsive.
 
 <img width="400" alt="Clon instagram perfil" src="https://github.com/user-attachments/assets/68b4b1a6-eb43-474d-9911-7101ffea295b" />
 <img width="400" alt="Clon instagram" src="https://github.com/user-attachments/assets/df8d0367-1c18-424a-b9a5-26973edff8ea" />
-
 
 ## Requisitos
 
 - HTML5
 - CSS3
-- Mobile first. Adaptado a móvil, tablet y laptop
+- Responsive. Adaptado a móvil, tablet y laptop
 
 ## Diseño
 
@@ -51,7 +50,7 @@ Construir la estructura con todas las etiquetas semánticas HTML5 posibles.
 
    Distribuye todos los bloques que haya en tu página con flexbox.
 
-6. "Mobile first!"
+6. Responsive
 
    Has de hacer que tu página pueda verse correctamente en móvil, tablet y escritorio. Utiliza todo lo visto sobre diseño fluido, flexbox, media queries para lograrlo.
 
@@ -61,7 +60,7 @@ _`Coming soon...`_
 
 ### Sube a GitHub tu proyecto! 🚀
 
-🧩 [Guia Git y GitHub](git-y-github.md)
+🧩 [Guia Git y GitHub](assets/git-y-github.md)
 
 1. Crear un repositorio en Github para la página de tu biografía.
 
@@ -73,7 +72,7 @@ _`Coming soon...`_
 
    1.4 Una vez en tu repositorio (en el navegador) ve a **Settings -> Github Pages** y en **Source** cambia la opción de **none** a **main**
 
-🧩 [Aquí encontrarás una lista de links a recursos que podrían servirte](./recursos-ejercicio.md)
+🧩 [Aquí encontrarás una lista de links a recursos que podrían servirte](assets/recursos-ejercicio.md)
 
 ### Y lo más importante. Diviértete y tira de imaginación
 
